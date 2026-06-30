@@ -177,7 +177,7 @@ herdr
 例如：
 
 ```
-C:\Users\S26648\AppData\Local\Programs\Herdr\
+C:\Users\Kevin\AppData\Local\Programs\Herdr\
 ```
 
 ---
@@ -191,7 +191,7 @@ C:\Users\S26648\AppData\Local\Programs\Herdr\
 例如：
 
 ```
-C:\Users\S26648\AppData\Roaming\herdr\
+C:\Users\Kevin\AppData\Roaming\herdr\
 ```
 
 內容：
